@@ -1,0 +1,36 @@
+body{
+    font-family: Roboto;
+}
+
+.container{
+    background-color:rgb(194, 148, 31);
+    height: 400px;
+    margin-top: 50px;
+    padding-top: 40px;
+    position: relative;
+    width: 800px;
+    margin-left: 300px;
+}
+
+.main{
+    width: 600px;
+    height: 350px !important;
+    background-color: white;
+    margin-right: 200px;
+    border: 5px solid transparent;
+    border-radius: 5px !important;
+    margin-left: 100px;
+
+
+}
+img{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    bottom: 0;
+    margin-left: 213px;
+    margin-bottom: 145px;
+    border-bottom-left-radius: 45px;
+    border: 5px solid rgb(194, 148, 31);
+   
+}
